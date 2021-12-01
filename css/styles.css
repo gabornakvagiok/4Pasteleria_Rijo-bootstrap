@@ -1,0 +1,13 @@
+.carousel-item {
+    width: auto;
+    height: 225px;
+    max-height: 225px;
+
+}
+.video-item{
+    width: 500px;
+    height: 500px;
+    max-height: 225px;
+
+}
+
